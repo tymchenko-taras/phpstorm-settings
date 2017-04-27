@@ -1,0 +1,8 @@
+<templateSet group="html/xml">
+  <template name="php" value="&lt;?php echo $NAME$ ?&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
