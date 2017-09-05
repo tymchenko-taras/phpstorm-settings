@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="2581cc4a-2efd-418f-aefa-f7cbc9f015da" name="derevbud.inf.ua" url="http://derevbud.inf.ua/">
+        <fileTransfer host="derevbud.inf.ua" port="21" rootFolder="/http" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
