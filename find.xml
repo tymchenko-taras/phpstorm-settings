@@ -2,10 +2,21 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'tb-192'" />
     <option name="defaultScopeName" value="Project 'tb-192'" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'tb-192'" />
+    <option name="FILE_MASK" value="*.xml" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.xml</mask>
+    </recentFileMasks>
   </component>
 </application>
