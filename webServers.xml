@@ -17,14 +17,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="4f5ce330-abe2-476a-954c-87fab49d3c08" name="patriotshop.com.ua" url="http://patriotshop.com.ua">
-        <fileTransfer host="patriotshop.com.ua" port="22" rootFolder="/var/www/html/dev.patriotshop.com.ua" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="f61e325c-acbd-4a82-bee3-be5f4aea6f93" name="dev.patriotshop.com.ua" url="http://patriotshop.com.ua">
         <fileTransfer host="patriotshop.com.ua" port="22" accessType="SFTP">
           <advancedOptions>
