@@ -12,7 +12,7 @@
       <webServer id="2581cc4a-2efd-418f-aefa-f7cbc9f015da" name="derevbud.inf.ua" url="http://derevbud.inf.ua/">
         <fileTransfer host="derevbud.inf.ua" port="21" accessType="FTPS">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
