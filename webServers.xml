@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="d92e3782-c753-4dcd-9c9d-103a351251a8" name="10.24.2.14(mailer)" url="http://10.24.2.14">
+        <fileTransfer host="10.24.2.14" port="22" privateKey="D:\misc\net\putty_private_key.openssh" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="70c03d7f-0cc5-4319-8e7b-16b89cc628ca" name="sync.flowers.local" url="http://sync.flowers.local">
         <fileTransfer host="sync.flowers.local" port="22" privateKey="D:\misc\net\putty_private_key.openssh" accessType="SFTP" keyPair="true">
           <advancedOptions>
