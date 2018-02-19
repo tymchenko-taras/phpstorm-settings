@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="template" type="Handlebars/Mustache" />
+      <mapping pattern=".config" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".text" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
